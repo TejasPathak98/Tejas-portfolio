@@ -1,0 +1,53 @@
+[
+  {
+    "id": "Person Re-Identification",
+    "title": "Person Re-Identification",
+    "description": "The Person-Re-identification project is designed to detect, track, and uniquely identify individuals in a video. This model combines tracking and re-identification techniques. When run on a video, it outputs a list of folders corresponding to each detected person, with each folder containing cropped images of that person from all video frames. The model, requiring initial training on the CUHK03 dataset, employs a re-identification neural network to ascertain if a person appearing in a video frame has been seen before. It uses tracking to follow individuals across consecutive frames and re-identification to confirm identities, especially when a person re-enters the frame after an absence. The model efficiently tracks people by comparing the overlap of bounding boxes across frames, and only uses re-identification for new or uncertain detections. This system ensures each person is counted only once, storing images and tracking data in individual folders for each unique individual detected in the video.",
+    "bannerImage": "Person_Re_Identification.gif",
+    "additionalImages": [
+      "PRI-1.png",
+      "PRI-2.png"
+    ],
+    "links": [
+      {
+        "name": "Person Re-Identification",
+        "url": "https://github.com/TejasPathak98/Person_Re_Identification"
+      }
+    ],
+    "date": "Jan - April 2019",
+    "skills": [
+      "Python3",
+      "PyTorch",
+      "Machine Learning",
+      "Computer Vision",
+      "TensorFlow",
+      "Git"
+    ]
+  },
+  
+  {
+    "id": "Shopping Cart",
+    "title": "Shopping Cart",
+    "description": "The project is an advanced online shopping cart tailored for an e-commerce website, specifically designed to facilitate the sale of electronics products. It encompasses comprehensive features such as user registration, login capabilities, and an intuitive interface for browsing and searching for products. Users have the flexibility to filter items by categories, add multiple products to their shopping cart, and adjust quantities as needed. The checkout process is streamlined, featuring a demo credit card payment system for processing transactions. Notably, the website is equipped with an automated email notification system. It sends confirmatory emails to users upon successful registration, order placement, and when items go in and out of stock. This feature enhances the user experience by keeping customers informed about their orders and product availability.On the administrative side, the project is robust, providing tools for adding, updating, and removing products from the store, as well as managing inventory. Administrators can track orders and update their shipping statuses, ensuring efficient order handling.Technologically, the project integrates a blend of front-end and back-end development tools. The front-end is built using HTML, CSS, JavaScript, and Bootstrap, offering a responsive and user-friendly interface. The back-end is powered by Java technologies including JDBC, Servlet, and JSP, with MySQL serving as the database backbone. This combination offers a reliable and scalable solution for e-commerce needs.The setup process is detailed and involves using a suite of software and tools such as Git for version control, Java JDK 8+ for programming, Eclipse Enterprise Edition for development, Apache Maven for project management, Tomcat v8.0+ as the web server, and MySQL Server with MySQL Workbench for database management.While the project serves as a substantial learning tool for those interested in e-commerce website development, it is noted that web security has not been a primary focus in this sample project. The project leader, Shashi Raj, encourages feedback and suggestions for enhancing the project, signaling openness to collaborative improvement and innovation." ,
+    "bannerImage": "Shopping-Cart-1.png",
+    "additionalImages": [
+      "Shopping-Cart-2.png",
+      "Shopping-Cart-3.png"
+    ],
+    "links": [
+      {
+        "name": "My Blog Post on Rebranding",
+        "url": "https://github.com/TejasPathak98/Java_Project"
+      }
+    ],
+    "date": "April 2022",
+    "skills": [
+      "React Native",
+      "CSS",
+      "Javascript",
+      "Typescript",
+      "Documentation",
+      "Styled Components"
+    ]
+  }
+]
