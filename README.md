@@ -1,6 +1,6 @@
 # Hello!
 
-This is the portfolio website for Keenan Zucker. It was written mostly by ChatGPT! I worked by prompting ChatGPT to make pages, add fun CSS styles, and even some signature flair. There were a few hiccups along wth way, of course. But please feel free to checkout the sourcecode.
+This is the portfolio website for Tejas Vijay Pathak. It was written mostly by ChatGPT! I worked by prompting ChatGPT to make pages, add fun CSS styles, and even some signature flair. There were a few hiccups along wth way, of course. But please feel free to checkout the sourcecode.
 
 Keep in mind, this repo is _not_ a source of 'beautiful code' and there are certainly stylistic inconsistencies, as in the nature of ChatGPT.
 
