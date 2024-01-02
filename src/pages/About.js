@@ -10,7 +10,7 @@ function About() {
       <div className="about-content">
         <img src={profilePic} alt="Profile" className="about-profile" />
         <p>
-          Hi, I'm Tejas! I'm a Compouter Science Master's student at
+          Hi, I'm Tejas! I'm a Computer Science Master's student at
           {" "}
           <a
             href="https://www.scu.edu/"
