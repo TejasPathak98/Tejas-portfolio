@@ -49,14 +49,22 @@ function About() {
             rel="noopener noreferrer"
           >
             LinkedIn
-          </a>{" "}
-          or check out my projects on{" "}
+          </a>
+          , check out my projects on{" "}
           <a
             href="https://github.com/TejasPathak98"
             target="_blank"
             rel="noopener noreferrer"
           >
             GitHub
+          </a>
+          , or view my{" "}
+          <a
+            href="https://drive.google.com/file/d/1L-cGSN9xXS9N9HSJvorAksKT5_F8YcB6/view?usp=sharing"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            resume
           </a>
           .
         </p>
