@@ -40,6 +40,27 @@ function About() {
         <p>
           In my free time I like to run, backpack,read & watch football!
         </p>
+
+        <p>
+          You can connect with me on{"LinkedIn"}
+          <a
+            href="https://www.linkedin.com/in/tejas-pathak-803944121/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LinkedIn
+          </a>{" "}
+          or check out my projects on{"Github"}
+          <a
+            href="https://github.com/TejasPathak98"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
+          .
+        </p>
+              
         <p>
           I wrote this website almost entirely using{" "}
           <a
