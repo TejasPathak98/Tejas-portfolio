@@ -42,7 +42,7 @@ function About() {
         </p>
 
         <p>
-          You can connect with me on{""}
+          You can connect with me on{" "}
           <a
             href="https://www.linkedin.com/in/tejas-pathak-803944121/"
             target="_blank"
@@ -50,7 +50,7 @@ function About() {
           >
             LinkedIn
           </a>{" "}
-          or check out my projects on{""}
+          or check out my projects on{" "}
           <a
             href="https://github.com/TejasPathak98"
             target="_blank"
