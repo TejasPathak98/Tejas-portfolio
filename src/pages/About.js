@@ -60,7 +60,7 @@ function About() {
           </a>
           , or view my{" "}
           <a
-            href="https://drive.google.com/file/d/1kx5S0aiq3kQUCcPGvskBYdXDGqxuhC5O/view"
+            href="https://drive.google.com/file/d/10SM5uRp7XFRzuH3o4-aGv7MBT6uPFDaI/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
           >
