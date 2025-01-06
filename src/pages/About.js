@@ -19,7 +19,8 @@ function About() {
           >
             Santa Clara University
           </a>
-          . Previously, I worked at{" "}
+          . I currently work at Mimosa Networks as a Software Engineer Intern. I specialize in writing software for networking devices like WiFi Radios.
+            Previously, I worked at{" "}
           <a
             href="https://www.ubs.com/global/en.html"
             target="_blank"
@@ -60,7 +61,7 @@ function About() {
           </a>
           , or view my{" "}
           <a
-            href="https://drive.google.com/file/d/1c1z1hTsAcPSOmuYPsKnYR76NhF17dL24/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1vXMGOU3cMXnQCiWbu1yVXw2zVuMWHqLj/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
