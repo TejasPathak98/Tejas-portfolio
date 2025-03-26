@@ -39,7 +39,7 @@ function About() {
             >
               UBS
             </a>{" "}
-            for 3 years, where I built global-scale data pipelines, designed RESTful APIs, and scaled microservices using AWS, Kubernetes, and Spring. I also led efforts in performance tuning and risk analytics dashboards, making data faster and smarter.
+            for 3 years, where I built global-scale data pipelines, designed RESTful APIs, and scaled microservices using Azure, Kubernetes, and Spring. I also led efforts in performance tuning and risk analytics dashboards, making data faster and smarter.
           </p>
 
           <p>
@@ -81,7 +81,7 @@ function About() {
             </a>
             , or take a look at my{" "}
             <a
-              href="https://drive.google.com/file/d/1vXMGOU3cMXnQCiWbu1yVXw2zVuMWHqLj/view?usp=sharing"
+              href="https://drive.google.com/file/d/13aBiZuKupwpD89U1OfZPxrCheY7djEkj/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
